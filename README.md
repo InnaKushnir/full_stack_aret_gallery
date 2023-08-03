@@ -1,1 +1,1 @@
-# full_stack_aret_gallery
+# full_stack_art_gallery
